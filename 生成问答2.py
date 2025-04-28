@@ -7,7 +7,7 @@ from openai import OpenAI
 # 强烈建议使用环境变量存储 API Key，而不是直接写入代码
 # 在你的终端设置: export OPENROUTER_API_KEY='你的OpenRouter Key'
 # 或者 export OPENAI_API_KEY='你的OpenRouter Key' (openai库默认会读取这个)
-OPENROUTER_API_KEY = "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"
+OPENROUTER_API_KEY =
 
 # OpenRouter API 的基础 URL
 OPENROUTER_BASE_URL = "https://openrouter.ai/api/v1"

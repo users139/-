@@ -5,7 +5,7 @@ import httpx
 import time
 import re
 # --- 数据定义 ---
-OPENROUTER_API_KEY = "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"
+OPENROUTER_API_KEY = 
 
 client = OpenAI(
     base_url="https://openrouter.ai/api/v1",

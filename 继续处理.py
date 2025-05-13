@@ -10,7 +10,7 @@ from openai import OpenAI
 
 # --- CONFIGURATION ---
 # WARNING: Hardcoding API keys is insecure for production. Use environment variables.
-OPENROUTER_API_KEY = "sk-9cf64bbdee534b9982b67d82e4974a3d"  # <-- REPLACE WITH YOUR ACTUAL KEY
+OPENROUTER_API_KEY = ""  # <-- REPLACE WITH YOUR ACTUAL KEY
 OPENROUTER_API_BASE = "https://dashscope.aliyuncs.com/compatible-mode/v1"
 # IMPORTANT: Choose a multi-modal model available on OpenRouter
 # Examples: "openai/gpt-4o-mini", "anthropic/claude-3-haiku", "openai/gpt-4-vision-preview"
